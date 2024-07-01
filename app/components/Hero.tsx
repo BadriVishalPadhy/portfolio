@@ -48,7 +48,9 @@ const Hero = () => {
               <a href="https://www.linkedin.com/in/badri-vishal-padhy-9257a1269/"><svg width="44px" height="44px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" fill="none"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="1.152"></g><g id="SVGRepo_iconCarrier"><rect width="132" height="132" x="30" y="30" stroke="#BAE6FC" stroke-width="12" rx="16"></rect><path stroke="#BAE6FC" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="M66 86v44"></path><circle cx="66" cy="64" r="8" fill="#BAE6FC"></circle><path stroke="#BAE6FC" stroke-linecap="round" stroke-width="12" d="M126 130v-26c0-9.941-8.059-18-18-18v0c-9.941 0-18 8.059-18 18v26"></path></g></svg></a>
             </div>
             <div>
-          
+              <h1 className=" pt-6 font-JetBrains_Mono text-4xl text-sky-200 font-bold">
+                Bio:
+              </h1>
               <p className="font-JetBrains_Mono text-[#CBA5F7]">
                 Hey,I'm Badri I'm a 22 year old full stack developer from India,I love building stuff that has some practicality.I also love contributing to open source to give back to community.
               </p>
